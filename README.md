@@ -1,5 +1,5 @@
 # TP1
-Tomás Zignego
+Autor: Tomás Zignego
 
 # HECHOS:
 
